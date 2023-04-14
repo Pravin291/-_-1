@@ -1,0 +1,138 @@
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+h1 {
+    font-family: Arial Bold, Helvetica, sans-serif;
+    font-size: 4rem;
+    line-height: 1.0;
+    font-weight: 900;
+    width: 60%;
+    text-align: center;
+    color: red;
+}
+
+h2{
+    font-family: Arial Bold, Helvetica, sans-serif;
+  
+    font-weight: 900;
+    line-height: 1.5;
+    width: 70%;
+    margin:auto;
+    color:rgb(108, 47, 47)
+
+}
+
+p {
+    text-align: center;
+}
+
+.title-image {
+    position: absolute;
+    right: 30%;
+}
+
+.section1 {
+    height: 50 vh;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 29;
+    -moz-border-radius: 29;
+    border-radius: 29px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 22px 15px 20px;
+    text-decoration: none;
+    text-align: center;
+  
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+
+
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 20px 0px 10px;
+ }
+
+.now{
+    text-align: center;
+}
+ .row{
+    background-color:#ECF2FF;
+ }
+
+
+
+#pricing{
+    padding:100px;
+    text-align: center;
+    background-color: #ECF2FF;
+    
+}
+
+.pricing-column{
+    padding:3% 2%;
+    
+}
+#para{
+    color:black;
+}
+.nav-item{
+    color:white;
+}
+
+.dum{
+    width:70%;
+    height: auto;
+    padding: 0 62px;;
+}
+
+.gym{
+    width:50%;
+    height:auto;
+    float: right;
+    margin-top:25px;
+}
+
+#logo{
+    margin-right: 8px;
+    color:white;
+   
+  
+}
+
+.navbar-brand{
+    font-family: Arial Bold, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: 900;
+    color: red;
+}
